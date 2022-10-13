@@ -1,0 +1,170 @@
+{
+  "pegawai": [
+    {
+      "nama": "asmuni",
+      "provinsi": "Aceh",
+      "kabupaten": "Kabupaten Bireuen",
+      "kecamatan": "Jangka",
+      "kelurahan": "Bada Barat",
+      "id": "85"
+    },
+    {
+      "nama": "Tesi",
+      "provinsi": "Riau",
+      "kabupaten": "Kabupaten Bengkalis",
+      "kecamatan": "Talang Muandau",
+      "kelurahan": "Beringin",
+      "id": "86"
+    },
+    {
+      "nama": "agun",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "kabupaten": "Kabupaten Bangka",
+      "kecamatan": "Mendo Barat",
+      "kelurahan": "Kota Kapur",
+      "id": "87"
+    },
+    {
+      "nama": "ainan",
+      "provinsi": "Dki Jakarta",
+      "kabupaten": "Kota Jakarta Pusat",
+      "kecamatan": "Menteng",
+      "kelurahan": "Pegangsaan",
+      "id": "88"
+    },
+    {
+      "nama": "ainan rt",
+      "provinsi": "Gorontalo",
+      "kabupaten": "Kabupaten Gorontalo",
+      "kecamatan": "Tibawa",
+      "kelurahan": "Isimu Selatan",
+      "id": "89"
+    },
+    {
+      "nama": "ainan 2",
+      "provinsi": "Sumatera Utara",
+      "kabupaten": "Kabupaten Tapanuli Selatan",
+      "kecamatan": "Sayur Matinggi",
+      "kelurahan": "Aek Badak Jae",
+      "id": "90"
+    },
+    {
+      "nama": "agun",
+      "provinsi": "riau",
+      "kabupaten": "Kabupaten Kuningan",
+      "kecamatan": "Wanayasa",
+      "kelurahan": "Jatiluhur",
+      "id": "93"
+    },
+    {
+      "nama": "Dodit",
+      "provinsi": "Jawa Timur",
+      "kabupaten": "Lamongan",
+      "kecamatan": "Patilan",
+      "kelurahan": "Wetanan",
+      "id": "95"
+    },
+    {
+      "nama": "Arif Rusmanb",
+      "provinsi": "Jambi",
+      "kabupaten": "Kabupaten Sarolangun",
+      "kecamatan": "Pelawan",
+      "kelurahan": "Bukit",
+      "id": "96",
+      "getProvinsiList": false,
+      "errorProvinsiList": false
+    },
+    {
+      "nama": "jon pantau sikumbang",
+      "provinsi": "Sumatera Barat",
+      "kabupaten": "Kota Sawah Lunto",
+      "kecamatan": "Silungkang",
+      "kelurahan": "Silungkang Duo",
+      "id": "99"
+    },
+    {
+      "nama": "ucok baba",
+      "provinsi": "Sumatera Utara",
+      "kabupaten": "Kabupaten Lima Puluh Kota",
+      "kecamatan": "Harau",
+      "kelurahan": "Batu Balang",
+      "id": "100"
+    },
+    {
+      "nama": "Ariel",
+      "provinsi": "Jawa Barat",
+      "kabupaten": "Kota Bandung",
+      "kecamatan": "Buahbatu",
+      "kelurahan": "Sekejati",
+      "id": "101"
+    },
+    {
+      "nama": "Ega",
+      "provinsi": "{}",
+      "kabupaten": "{}",
+      "kecamatan": "{}",
+      "kelurahan": "{}",
+      "id": "102",
+      "kec": {
+        "nama_kecamatan": "Tapung",
+        "id_kecamatan": 1406040
+      },
+      "kabkot": {
+        "nama_kabupaten": "Kabupaten Kampar",
+        "id_kabupaten": 1406
+      },
+      "prov": {
+        "id": 14,
+        "nama": "Riau"
+      }
+    },
+    {
+      "nama": "Rahman",
+      "provinsi": "{}",
+      "kabupaten": "{}",
+      "kecamatan": "{}",
+      "kelurahan": "{}",
+      "id": "103",
+      "kec": {
+        "nama_kecamatan": "Bukit Sundi",
+        "id_kecamatan": 1303090
+      },
+      "kabkot": {
+        "nama_kabupaten": "Kabupaten Solok",
+        "id_kabupaten": 1303
+      },
+      "prov": {
+        "id": 13,
+        "nama": "Sumatera Barat"
+      }
+    },
+    {
+      "nama": "Joni",
+      "provinsi": "{}",
+      "kabupaten": "{}",
+      "kecamatan": "{}",
+      "kelurahan": "{}",
+      "id": "104",
+      "kec": {
+        "nama_kecamatan": "Cermin Nan Gedang",
+        "id_kecamatan": 1503021
+      },
+      "kabkot": {
+        "nama_kabupaten": "Kabupaten Sarolangun",
+        "id_kabupaten": 1503
+      },
+      "prov": {
+        "id": 15,
+        "nama": "Jambi"
+      }
+    },
+    {
+      "nama": "jo",
+      "provinsi": "jo",
+      "kabupaten": "ss",
+      "kecamatan": "ss",
+      "kelurahan": "ssasa",
+      "id": "1"
+    }
+  ]
+}
